@@ -1,0 +1,15 @@
+{
+  "name": "hackathon-embedded-systems",
+  "version": "0.0.0",
+  "description": "hackathon for 5th and 6th graders with johnny-five and embedded systems",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Andrew Davis <andrew@diff.mx>",
+  "license": "MIT",
+  "dependencies": {
+    "johnny-five": "^0.9.58",
+    "playground-io": "^0.4.0"
+  }
+}
